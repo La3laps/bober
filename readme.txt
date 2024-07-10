@@ -1,5 +1,6 @@
 Kurwa (kawai in french).
 
+<<<<<<< HEAD
 As a Slovak person on this team I Don't find it offensive, because in Slovak we use "v" instead of "w". :-° 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -34,3 +35,7 @@ As a Slovak person on this team I Don't find it offensive, because in Slovak we 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣶⣿⣿⡿⠚⣿⣷⣦⣶⣾⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡁⣈⠉⠉⠁⠀⠀⠉⢉⣀⡉⠉⢉⡀⠀⠀⠀⠀⠀
+=======
+oeooeoe
+As a Slovak person on this team I Don't find it offensive, because in Slovak we use "v" instead of "w". :-° 
+>>>>>>> 7f977b9145d393de47ace024b69c68d4d8a8f8e5
