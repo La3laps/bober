@@ -1,0 +1,1 @@
+Kurwa (kawai in french).
